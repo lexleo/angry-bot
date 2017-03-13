@@ -6,7 +6,7 @@
 
 AngryBot is a simple and badass Telegram russian-language talkactive bot.
 
-It's a basic Python example for those who wants to spawn their own one.
+It's a basic Python skeleton for those who wants to spawn their own one.
 
 
 
