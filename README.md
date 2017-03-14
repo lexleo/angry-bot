@@ -16,7 +16,7 @@ All you need to run AngryBot — pure python3 environment. No installation neede
 
 ### Usage
 
-Simply run `bot.py` from terminal or from your favorite Python editor. AngryBot is already linked to Telegram, so if you'll run and keep him alive he will be accessible in Telegram messenger.
+Simply run `bot.py` from terminal or from your favorite Python editor. AngryBot is already linked to Telegram, so if you will run and keep him alive he will be accessible in Telegram messenger.
 
 ### More
 
