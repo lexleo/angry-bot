@@ -12,7 +12,7 @@ __Be prepared!__ He is extremely outspoken!
 
 ### Installation
 
-All you need to run AngryBot — pure python3 environment. No installation needed on Linux and MacOS, python is already there by default. And all you might need on Windows — is to [download and install python3](https://www.python.org/downloads/)
+All you need to run AngryBot — pure python3 environment. No installation needed on Linux and MacOS, python is already there by default. And all you might need on Windows — is to [download and install python3!](https://www.python.org/downloads/)
 
 ### Usage
 
